@@ -36,6 +36,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- _posts/2018-01-15-what-isphotography.md
-- _posts/2019-03-30-working-from-home.md
